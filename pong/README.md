@@ -11,13 +11,13 @@ To run the Pong game, follow these steps:
 
 2. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/karmali-irfan/2D-Games/pong.git
+   git clone https://github.com/karmali-irfan/2D-Games.git
 
 3. **Run the Game**:
    Navigate to the repository's directory and launch the game using the Love framework. **(Only MacOS)**
    ```bash
    cd #make_sure_you_are_in_your_home_directory
-   open -a love path/to/pong
+   open -a love path/to/2D-games/pong
 
 ## Controls
 

@@ -20,7 +20,7 @@ To run the Flappy Bird game, follow these steps:
    Navigate to the repository's directory and launch the game using the Love framework. **(Only MacOS)**
    ```bash
    cd #make_sure_you_are_in_your_home_directory
-   open -a love path/to/2D-games/Flappy_Bird
+   open -a love path/to/2D-games/Flappy-Bird
 
 ## Controls
 

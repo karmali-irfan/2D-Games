@@ -14,13 +14,13 @@ To run the Flappy Bird game, follow these steps:
 
 2. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/karmali-irfan/2D-Games/Flappy-Bird.git
+   git clone https://github.com/karmali-irfan/2D-Games.git
 
 3. **Run the Game**:
    Navigate to the repository's directory and launch the game using the Love framework. **(Only MacOS)**
    ```bash
    cd #make_sure_you_are_in_your_home_directory
-   open -a love path/to/Flappy_Bird
+   open -a love path/to/2D-games/Flappy_Bird
 
 ## Controls
 

@@ -30,3 +30,9 @@ To run the Flappy Bird game, follow these steps:
 
 - Classic Flappy Bird gameplay experience.
 - Simple and intuitive controls.
+
+## Preview of the Game 
+- All designs (including the background, the poles and the ground) are credited to [Enzy Maine](https://instagram.com/enzymaine?igshid=MzRlODBiNWFlZA==).
+  
+![Screenshot](https://github.com/karmali-irfan/2D-Games/blob/main/Flappy-Bird/flappy_bird_preview.png)
+
